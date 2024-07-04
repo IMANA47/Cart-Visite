@@ -61,10 +61,12 @@ body{
 .text-data .name{
 	font-size: 22px;
 	font-weight: 500;
+	color: #000;
 }
 .text-data .job{
 	font-size: 15px;
 	font-weight: 400;
+	color: #000;
 }
 .profile-carte .media-buttons{
 	display: flex;
